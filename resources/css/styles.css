@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.page {
+width: 1200px;
+margin: 0 auto;
+}
+
+.title {
+  height: 200px;
+  background-color: lightblue;
+  }
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Century Gothic";
+}
+
+  nav {
+    text-align: center;
+  }
+
+  .articles {
+    height:800px;
+    background-color: red;
+    width: 1200px;
+
+  }
+
+  .footer {
+    height:200px;
+    background-color: green;
+}
+
+.column {
+  width: 30%;
+  height:700px;
+  margin: 20px 1.2%;
+  background-color: yellow;
+  float: left;
+}
